@@ -6,8 +6,6 @@ Iznad se nalaze: - Powerpoint prezentacija projekta
                  
                  - Znanstveni poster projekta (ukratko sve najzanimljivije iz projekta na njemu)
 
-Projekt izradili: - Antonio Pavlović
-
-                  - Atila Astaloš
+Projekt izradili: **Antonio Pavlović** i **Atila Astaloš**
                   
 --- 
